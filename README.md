@@ -11,7 +11,7 @@ FROM
 WHERE
     Salary NOT BETWEEN 60000 AND 69999;
     
-# Question E In the table “Employee”, choose all the employees whose name is either Denis/ Giri – list all columns
+# In the table “Employee”, choose all the employees whose name is either Denis/ Giri – list all columns
 
 
 SELECT 
